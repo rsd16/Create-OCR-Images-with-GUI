@@ -1,8 +1,3 @@
-# Project Loneliness, done by Alireza Rashidi Laleh
-# creating dataset by the help of tkinter and arrays
-# python 3.7.8
-
-
 from tkinter import *
 import numpy as np
 
